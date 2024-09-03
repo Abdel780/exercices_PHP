@@ -90,4 +90,4 @@ echo '<h1>Abdel est ' .$message . '</h1>'
 
 <?php
     require 'partials/footer.php';
-?>
+?>  
