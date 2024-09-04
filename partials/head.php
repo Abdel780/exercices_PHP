@@ -20,10 +20,12 @@
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="/">Home</a>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item d-flex">
                         <a class="nav-link" href="/exerciceBase.php">Exercice Base</a>
                         <a class="nav-link" href="/exerciceConcatenation.php">Exercice concatenation</a>
                         <a class="nav-link" href="/exerciceConstante.php">Exercice constantes</a>
+                        <a class="nav-link" href="/exerciceArithmetique.php">Exercice arithmetique</a>
+                        <a class="nav-link" href="/exerciceCondition.php">Exercice conditions</a>
                     </li>
                 </ul>
             </div>
